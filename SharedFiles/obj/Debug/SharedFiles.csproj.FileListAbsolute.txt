@@ -1,0 +1,6 @@
+D:\Gits\MartianRobots\SharedFiles\obj\Debug\SharedFiles.csprojAssemblyReference.cache
+D:\Gits\MartianRobots\SharedFiles\bin\Debug\SharedFiles.exe.config
+D:\Gits\MartianRobots\SharedFiles\bin\Debug\SharedFiles.exe
+D:\Gits\MartianRobots\SharedFiles\bin\Debug\SharedFiles.pdb
+D:\Gits\MartianRobots\SharedFiles\obj\Debug\SharedFiles.exe
+D:\Gits\MartianRobots\SharedFiles\obj\Debug\SharedFiles.pdb

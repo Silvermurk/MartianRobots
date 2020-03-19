@@ -1,0 +1,15 @@
+D:\Gits\MartianRobots\MartianRobotsClient\obj\Debug\MartianRobotsClient.csprojAssemblyReference.cache
+D:\Gits\MartianRobots\MartianRobotsClient\obj\Debug\MartianRobotsClient.Properties.Resources.resources
+D:\Gits\MartianRobots\MartianRobotsClient\obj\Debug\MartianRobotsClient.csproj.GenerateResource.cache
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\MartianRobotsClient.exe.config
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\MartianRobotsClient.exe
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\MartianRobotsClient.pdb
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\RestSharp.dll
+D:\Gits\MartianRobots\MartianRobotsClient\obj\Debug\MartianRobotsClient.csproj.CopyComplete
+D:\Gits\MartianRobots\MartianRobotsClient\obj\Debug\MartianRobotsClient.exe
+D:\Gits\MartianRobots\MartianRobotsClient\obj\Debug\MartianRobotsClient.pdb
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\Newtonsoft.Json.dll
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\SharedFiles.exe
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\SharedFiles.pdb
+D:\Gits\MartianRobots\MartianRobotsClient\bin\Debug\SharedFiles.exe.config
+D:\Gits\MartianRobots\MartianRobotsClient\obj\Debug\MartianRobotsClient.RobotsUI.resources
